@@ -1,1 +1,0 @@
-## MY PROYECT python-object_relational_mapping ##
